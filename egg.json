@@ -1,0 +1,27 @@
+{
+  "$schema": "https://x.nest.land/eggs@0.3.10/src/schema.json",
+  "name": "utilitiesmonorepo",
+  "entry": "./mod.ts",
+  "description": "A Deno Module with Multiple utility tools",
+  "homepage": "https://github.com/mskian/deno-utilities-monorepo",
+  "version": "0.0.1",
+  "releaseType": null,
+  "unstable": false,
+  "unlisted": false,
+  "files": [
+    "README.md"
+  ],
+  "ignore": [
+    ".git",
+    ".github",
+    "LICENSE",
+    "deno.json",
+    ".vscode",
+    ".gitignore",
+    "test.ts"
+  ],
+  "checkFormat": "deno fmt",
+  "checkTests": false,
+  "checkInstallation": false,
+  "check": true
+}
