@@ -9,6 +9,7 @@
   "unstable": false,
   "unlisted": false,
   "files": [
+    "utilities.ts",
     "README.md"
   ],
   "ignore": [
